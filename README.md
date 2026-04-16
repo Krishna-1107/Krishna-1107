@@ -14,9 +14,9 @@
 ## ⚡ Current Focus
 
 * **Studying:** Pursuing my B.Tech at IIT Guwahati with a current CGPA of 9.74. Secured an All India Rank of 607 in JEE Advanced.
-* **Building:** A High-Performance 5-Stage Pipelined Processor in Verilog. Recently redesigned the synchronous hazard control unit to eliminate forwarding from the write-back stage, and integrated a Branch Target Buffer (BTB) with an LRU L1 cache.
-* **Leading:** Serving as the Web Development Module Coordinator for the IITG Coding Club. Moderated the Jane Street-sponsored IIWCPC contest.
-* **Competing:** Winning team member at Atlassian Fast Track 2026 and Global Rank 730 among 12,000+ participants in IICPC Codefest 2026.
+* **Building:** A High-Performance 5-Stage Pipelined Processor in Verilog. Recently redesigned the synchronous hazard control unit and integrating a Branch Target Buffer (BTB) and LRU L1 cache with my processor.
+* **Competing:** Winning team member at Atlassian Fast Track 2026 and secured Rank 730 among 12,000+ participants in IICPC Codefest 2026.
+* **Leading:** Served as the Web Development Module Coordinator for the IITG Coding Club. Moderated the Jane Street-sponsored IIWCPC contest.
 
 <br>
 

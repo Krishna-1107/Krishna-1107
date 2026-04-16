@@ -23,12 +23,8 @@
 ## ⌘ Technical Arsenal
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgres,supabase,linux,git" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,supabase,linux,git" alt="My Skills" />
 </a>
-<br>
-<br>
-<img src="https://img.shields.io/badge/Hardware_Design-Verilog-black?style=flat-square&logo=verilog" alt="Verilog" />
-
 <br>
 
 ## ▤ Featured Projects

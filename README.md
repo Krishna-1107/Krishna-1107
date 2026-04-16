@@ -51,8 +51,3 @@ Hardware lab project simulating core pipeline stages, featuring a robust synchro
 [↗ LinkedIn](https://www.linkedin.com/in/krishna-parashar-639706317/) &nbsp;&nbsp;|&nbsp;&nbsp; [↗ Codeforces](https://codeforces.com/profile/Krishna_1107) &nbsp;&nbsp;|&nbsp;&nbsp; [↗ Email](mailto:k.parashar@iitg.ac.in)
 
 <br>
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-1107&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=black&icon_color=black" alt="Krishna's GitHub Stats" />
-</p>
